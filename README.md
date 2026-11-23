@@ -1,26 +1,22 @@
 <div align="center">
-
-<!-- HEADER // ANIMATED MONOSPACE TYPING SVG -->
 <a href="https://github.com/akshan9103">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=780&height=55&lines=SHANTHA+KUMAR+P+M+%2F%2F+%40akshan9103;BREAKING+THINGS+TO+SEE+HOW+THEY+WORK;WEB+APPS+%C2%B7+LOCAL+AI+%C2%B7+DATA+EXPERIMENTS;ALWAYS+IN+BETA+%2F%2F+FOREVER+LEARNING" alt="Shantha Kumar P M — @akshan9103" />
 </a>
-
 <p>
   <sub><code>Turning curiosity into code — one broken build, local model, and weird idea at a time.</code></sub>
 </p>
 
-<!-- SOCIAL LINKS // MONOCHROME FOR-THE-BADGE -->
 <p>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
+  <a href="https://shan-dev-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-161B22?style=for-the-badge&labelColor=30363D&logo=vercel&logoColor=FFFFFF" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/shanthakumarpm" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161B22?style=for-the-badge&labelColor=30363D&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/akshan9103" target="_blank">
+  <a href="https://leetcode.com/u/shanthapm2003/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-DSA-161B22?style=for-the-badge&labelColor=30363D&logo=leetcode&logoColor=FFFFFF" alt="LeetCode" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shanthapm2003@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-PING-161B22?style=for-the-badge&labelColor=30363D&logo=gmail&logoColor=FFFFFF" alt="Email" />
   </a>
 </p>
@@ -173,35 +169,21 @@ Most of what I know started with troubleshooting stubborn PCs, poking around dig
 ### `05 // COMMIT PULSE`
 
 <div align="center">
-
-<!-- ROW 1 // GITHUB STATS + TOP LANGUAGES -->
 <p>
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=akshan9103&show_icons=true&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&ring_color=FFFFFF" alt="GitHub Stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshan9103&layout=compact&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-<!-- ROW 2 // STREAK STATS + LEETCODE HEATMAP -->
 <p>
   <img height="180" src="https://streak-stats.demolab.com/?user=akshan9103&background=0D1117&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
-  <img height="180" src="https://leetcard.jacoblin.cool/akshan9103?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=1&radius=6" alt="LeetCode Heatmap" />
+  <img height="180" src="https://leetcard.jacoblin.cool/shanthapm2003?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap&border=1&radius=6" alt="LeetCode Heatmap" />
 </p>
-
-<!-- ROW 3 // COMMIT ACTIVITY GRAPH -->
 <p>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshan9103&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=30363D&border_color=30363D&custom_title=COMMIT%20ACTIVITY" alt="GitHub Activity Graph" />
 </p>
-
-
 </div>
-
----
-
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=akshan9103&label=PROFILE+VIEWS&color=30363D&style=for-the-badge" alt="Profile Views" />
-
 <br />
-
 <sub><code>// EOF · still compiling · @akshan9103</code></sub>
-
 </div>
