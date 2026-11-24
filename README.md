@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/akshan9103">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=780&height=55&lines=SHANTHA+KUMAR+P+M+%2F%2F+%40akshan9103;BREAKING+THINGS+TO+SEE+HOW+THEY+WORK;WEB+APPS+%C2%B7+LOCAL+AI+%C2%B7+DATA+EXPERIMENTS;ALWAYS+IN+BETA+%2F%2F+FOREVER+LEARNING" alt="Shantha Kumar P M — @akshan9103" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=28&duration=3000&pause=1000&color=000000&background=0D111700&center=true&vCenter=true&width=780&height=40&lines=SHANTHA+KUMAR+P+M;BREAKING+THINGS+TO+SEE+HOW+THEY+WORK;WEB+APPS+%C2%B7+LOCAL+AI+%C2%B7+DATA+EXPERIMENTS;ALWAYS+IN+BETA+%2F%2F+FOREVER+LEARNING" alt="Shantha Kumar P M" />
 </a>
 <p>
   <sub><code>Turning curiosity into code — one broken build, local model, and weird idea at a time.</code></sub>
